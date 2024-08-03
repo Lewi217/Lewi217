@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lewis Wanjohi Kanyari</h1>
 <h3 align="center">Am a software engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align="center" alt="coding" width="" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewi217" alt="lewi217" /></a> </p>
 
