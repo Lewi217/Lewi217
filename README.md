@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lewis Wanjohi </h1>
 <h3 align="center">Am a software engineer</h3>
 
-About Me:
+<h3>💫 About Me:<h3/>
 
 - 🔭 I’m currently working on **Java**
 
