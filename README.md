@@ -34,8 +34,7 @@
 
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lewi217)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lewi217&theme=gotham&hide_border=false)<br/>
 
 
 
