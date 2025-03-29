@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Springboot projects**
 
-- 🤝 I’m looking for help with **Goolang**
+- 🤝 I’m looking for help with **Kotlin**
 
 - 👨‍💻 All of my projects are available at [github.com/Lewi217](github.com/Lewi217)
 
-- 💬 Ask me about **Java, Springboot , Go**
+- 💬 Ask me about **Java, Springboot , Kotlin**
 
 - 📫 How to reach me **wanjohilewi7@gmail.com**
 
