@@ -77,7 +77,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Lewi217&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-   <img src="https://nirzak-streak-stats.vercel.app/?user=Lewi217&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Lewi217&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewi217&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
