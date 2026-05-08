@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Am Lewis Wanjohi </h1>
-<h3 align="center">Am a Software Engineer</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+Student;Backend+Developer;Android+Enthusiast;Cloud+and+DevOps+Explorer;Always+Learning,+Always+Building!&center=false&width=600&height=45" />
